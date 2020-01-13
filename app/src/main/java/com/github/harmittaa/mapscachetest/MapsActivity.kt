@@ -45,6 +45,6 @@ class MapsActivity : AppCompatActivity() {
     }
 
     fun goBack() {
-
+        supportFragmentManager.popBackStack()
     }
 }
