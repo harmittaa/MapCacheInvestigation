@@ -5,3 +5,8 @@ and [SupportMapFragment](https://developers.google.com/android/reference/com/goo
 view how different map presentations handle caching when moving between fragments.
 
 In short, SupportMapFragment caches markers and drawings while MapView does not, even though all lifecycle callbacks are directed to it.
+
+
+### Demo
+
+![Recording of functionality](https://raw.githubusercontent.com/harmittaa/MapCacheInvestigation/master/documents/map_recording.gif)
